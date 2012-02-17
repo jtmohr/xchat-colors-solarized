@@ -1,4 +1,4 @@
-# Solarized Colorscheme for X-Chat
+# Solarized Colorscheme for XChat
 
 Original Solarized colorscheme developed by:  
 **Ethan Schoonover**  
@@ -15,7 +15,7 @@ for Vim, Mutt, popular terminal emulators and other applications.
 
 ## Installation
 
-### X-Chat Data Directories
+### XChat Data Directories
 Replace `<username>` with your actual username.
 
 * **Windows Vista/7:**  
@@ -34,21 +34,21 @@ The only reason you may need to replace your existing `pevents.conf` file is if
 it is heavily modified.
 
 ### Install the Solarized theme
-1. Exit X-Chat
+1. Exit XChat
 1. Back-up the current `colors.conf` and `pevents.conf` files located in
-   the appropriate X-Chat Data Directory
+   the appropriate XChat Data Directory
 1. Copy the `solarized-dark-colors.conf` or `solarized-light-colors.conf` file
-   to the appropriate X-Chat Data Directory and rename it to `colors.conf`
-1. **(Optional)** Copy the `pevents.conf` file to the appropriate X-Chat Data
+   to the appropriate XChat Data Directory and rename it to `colors.conf`
+1. **(Optional)** Copy the `pevents.conf` file to the appropriate XChat Data
    Directory
-1. Restart X-Chat
+1. Restart XChat
 
 ## Color Values
 
 ### Solarized Dark
     mIRC colors are mapped 0-15
     ===========================
-    X-Chat  Color
+    XChat   Color
     ---------------
     0       Default
     1       Default
@@ -69,8 +69,8 @@ it is heavily modified.
 
     Local colors are mapped 16-31
     =============================
-    X-Chat  Solarized   Hex         Color Mapping
-    ------  -------------------     ------------------------------------------------
+    XChat   Solarized   Hex         Color Mapping
+    -----   -------------------     ------------------------------------------------
     16      Orange      #cb4b16     Motd Indicator
     17      Base 1      #93a1a1     User level indicators ( ~, &, @, %, +)
     18      Blue        #268bd2     Primary Nick Color (when not using "Colored nick names") / Channel Action/Message
@@ -88,10 +88,10 @@ it is heavily modified.
     30      Yellow      #b58900     User's Message / Some Whois / Some DCC
     31      Orange      #cb4b16     User's Nick Color
 
-    X-Chat special colors are mapped at 256+
-    ========================================
-    X-Chat  Solarized   Hex         Color Mapping
-    ------  -------------------     ------------------------------------------------
+    XChat special colors are mapped at 256+
+    =======================================
+    XChat   Solarized   Hex         Color Mapping
+    -----   -------------------     ------------------------------------------------
     256     Base 03     #002b36     Marking Text Forground
     257     Base 01     #586e75     Marking Text Background
     258     Base 0      #839496     Text Colors Foreground
@@ -106,7 +106,7 @@ it is heavily modified.
 ### Solarized Light
     mIRC colors are mapped 0-15
     ===========================
-    X-Chat  Color
+    XChat   Color
     ---------------
     0       Default
     1       Default
@@ -127,8 +127,8 @@ it is heavily modified.
 
     Local colors are mapped 16-31
     =============================
-    X-Chat  Solarized   Hex         Color Mapping
-    ------  -------------------     ------------------------------------------------
+    XChat   Solarized   Hex         Color Mapping
+    -----   -------------------     ------------------------------------------------
     16      Orange      #cb4b16     Motd Indicator
     17      Base 01     #586e75     User level indicators ( ~, &, @, %, +)
     18      Blue        #268bd2     Primary Nick Color (when not using "Colored nick names") / Channel Action/Message
@@ -146,10 +146,10 @@ it is heavily modified.
     30      Yellow      #b58900     User's Message / Some Whois / Some DCC
     31      Orange      #cb4b16     User's Nick Color
 
-    X-Chat special colors are mapped at 256+
-    ========================================
-    X-Chat  Solarized   Hex         Color Mapping
-    ------  -------------------     ------------------------------------------------
+    XChat special colors are mapped at 256+
+    =======================================
+    XChat   Solarized   Hex         Color Mapping
+    -----   -------------------     ------------------------------------------------
     256     Base 3      #fdf6e3     Marking Text Forground
     257     Base 1      #93a1a1     Marking Text Background
     258     Base 00     #657b83     Text Colors Foreground
