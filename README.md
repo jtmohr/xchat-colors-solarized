@@ -3,15 +3,19 @@
 Original Solarized colorscheme developed by:  
 **Ethan Schoonover**  
 <es@ethanschoonover.com>  
-[Solarized Github Repository]
+[Solarized Github Repository][solarized-github]
 
-## Visit the [Solarized homepage]
+## Visit the [Solarized homepage][solarized-homepage]
 
-See the [Solarized homepage] for screenshots, details and colorscheme versions
-for Vim, Mutt, popular terminal emulators and other applications.
+If you have come across this colorscheme via the
+[XChat-only repository on github][xchat-solarized-github], see the
+[Solarized homepage][solarized-homepage] for screenshots, details, and
+colorscheme versions for Vim, Mutt, popular terminal emulators, and other
+applications.
 
-[Solarized Github Repository]: https://github.com/altercation/solarized
-[Solarized homepage]: http://ethanschoonover.com/solarized
+[solarized-github]: https://github.com/altercation/solarized
+[solarized-homepage]: http://ethanschoonover.com/solarized
+[xchat-solarized-github]: https://github.com/jtmohr/xchat-colors-solarized
 
 ## Screenshots
 ![Solarized Dark](http://img208.imageshack.us/img208/6127/xchatsolarizeddarkcolor.png)
@@ -40,10 +44,10 @@ it is heavily modified.
 The `pevents.conf` included with the theme has 2 modifications:
 
 1. Nick names are wrapped with angle brackets.  
-<https://toxin.jottit.com/xchat_text_events#03>
+https://toxin.jottit.com/xchat_text_events#03
 
 1. Mode characters ( ~, &, @, %, +) are shown next to nick names.  
-<http://xchat.org/faq/#q26>
+http://xchat.org/faq/#q26
 
 ### Install the Solarized theme
 1. Exit XChat
