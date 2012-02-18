@@ -13,6 +13,11 @@ for Vim, Mutt, popular terminal emulators and other applications.
 [Solarized Github Repository]: https://github.com/altercation/solarized
 [Solarized homepage]: http://ethanschoonover.com/solarized
 
+## Screenshots
+![Solarized Dark](http://img208.imageshack.us/img208/6127/xchatsolarizeddarkcolor.png)
+
+![Solarized Light](http://img855.imageshack.us/img855/9378/xchatsolarizedlightcolo.png)
+
 ## Installation
 
 ### XChat Data Directories
