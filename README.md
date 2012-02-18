@@ -26,12 +26,19 @@ Replace `<username>` with your actual username.
 `~/.xchat2/`
 
 ### pevents.conf
-The Solarized colors files work with a default `pevents.conf` file. The
-`pevents.conf` included with the theme is modified to show angle brackets around
-the nicknames.
+The Solarized theme for XChat was designed using the default `pevents.conf`
+file.
 
 The only reason you may need to replace your existing `pevents.conf` file is if
 it is heavily modified.
+
+The `pevents.conf` included with the theme has 2 modifications:
+
+1. Nick names are wrapped with angle brackets.  
+<https://toxin.jottit.com/xchat_text_events#03>
+
+1. Mode characters ( ~, &, @, %, +) are shown next to nick names.  
+<http://xchat.org/faq/#q26>
 
 ### Install the Solarized theme
 1. Exit XChat
