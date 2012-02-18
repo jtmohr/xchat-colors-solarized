@@ -1,5 +1,9 @@
 # Solarized Colorscheme for XChat
 
+This is a port of the [Solarized][solarized-homepage] colorscheme for
+[XChat][xchat-homepage]:  
+[XChat Solarized Github Repository][xchat-solarized-github]
+
 Original Solarized colorscheme developed by:  
 **Ethan Schoonover**  
 <es@ethanschoonover.com>  
@@ -16,6 +20,7 @@ applications.
 [solarized-github]: https://github.com/altercation/solarized
 [solarized-homepage]: http://ethanschoonover.com/solarized
 [xchat-solarized-github]: https://github.com/jtmohr/xchat-colors-solarized
+[xchat-homepage]: http://xchat.org/
 
 ## Screenshots
 ![Solarized Dark](http://img208.imageshack.us/img208/6127/xchatsolarizeddarkcolor.png)
