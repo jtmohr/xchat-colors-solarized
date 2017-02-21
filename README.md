@@ -23,9 +23,10 @@ applications.
 [xchat-homepage]: http://xchat.org/
 
 ## Screenshots
-![Solarized Dark](http://img208.imageshack.us/img208/6127/xchatsolarizeddarkcolor.png)
+![Solarized Dark](https://cloud.githubusercontent.com/assets/71906/23186159/c3e739a8-f84b-11e6-8394-f5a05bf201d5.png)
 
-![Solarized Light](http://img855.imageshack.us/img855/9378/xchatsolarizedlightcolo.png)
+![Solarized Light](https://cloud.githubusercontent.com/assets/71906/23185987/01a49778-f84b-11e6-8b44-72293ad86097.png)
+
 
 ## Installation
 
